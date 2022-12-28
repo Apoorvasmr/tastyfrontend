@@ -1,5 +1,5 @@
 import axios from 'axios';
-// const LOGIN_USER_KEY = 'WD_FORUM_LOGIN_USER_KEY';
+const LOGIN_USER_KEY = 'WD_FORUM_LOGIN_USER_KEY';
 
 // var baseURL;
 // if (process.env.REACT_APP_ENVIRONMENT && process.env.REACT_APP_ENVIRONMENT === 'PRODUCTION') {
